@@ -10,7 +10,7 @@
   </a>
 </p>
 
-## Actions
+## 📌 Actions
 
 ### Pull/Equip Item
   
@@ -63,6 +63,6 @@ Enable/disable the **"solo"** mode.
 ### Checkpoint
 Copy the user handle of checkpoint and customize chat command.
 
-## Website
+## 🌍 Website
 
 [https://dimstreamdeck.vercel.app](https://dimstreamdeck.vercel.app)
