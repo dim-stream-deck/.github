@@ -10,48 +10,59 @@
   </a>
 </p>
 
-<h2 align="center">Actions</h1>
+## Actions
 
-- **Pull/Equip Item**
+### Pull/Equip Item
+  
 Move (or equip) items between characters and vault.
 
-- **Equip Loadout**
+### Equip Loadout
+  
 Choose and equip any loadout.
 
-- **Search**
-Trigger the search with a custom query and multiple pages.
+### Search
 
-- **Refresh DIM**
-Invoke the refresh action on DIM
-- **Randomize Character**
-Randomize current character loadout (weapons only / full loadout)
+Trigger the search with a custom query, multiple pages and equip searched items if required.
 
-- **Open DIM**
-Open a specific flavor (stable or beta) DIM application
+### Refresh DIM
 
-- **Vault**
-Show currencies and vault counter.
+Invoke the refresh action on DIM.
 
-- **Postmaster**
+### Randomize Character
+
+Randomize current character loadout (weapons only / full loadout).
+
+### Open DIM
+
+Open a specific flavor (`app` or `beta`) DIM application.
+
+### Vault
+
+Show currencies/vault counter.
+
+### Postmaster
+
 Open a specific flavor (app/beta) DIM application.
 
-- **Metrics**
+### Metrics
+
 Show ranking progress (vanguard, crucible, etc) or other metrics.
 
-- **Max Power**
-Open a specific flavor (app/beta) DIM application.
+### Max Power
 
-- **Farming Mode**
+Show max power and equip max mower loadout on tap.
+
+### Farming Mode
+
 Turn on/off the DIM farming mode.
 
-- **Solo Mode**
-Enable/disable the "Solo" Mode
+### Solo Mode
 
-- **Checkpoint**
-Copy the user handle of checkpoint and customize chat command
+Enable/disable the **"solo"** mode.
 
-<h2 align="center">Website</h1>
+### Checkpoint
+Copy the user handle of checkpoint and customize chat command.
 
-<p align="center">
-  <a href="https://dimstreamdeck.vercel.app/" target="_blank">dimstreamdeck.vercel.app</a>
-</p>
+## Website
+
+[https://dimstreamdeck.vercel.app](https://dimstreamdeck.vercel.app)
